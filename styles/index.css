@@ -21,8 +21,8 @@ html {
 }
 
 #qr_card {
-    width: 150px;
-    height: 220px;
+    width: 300px;
+    height: 420px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -77,12 +77,12 @@ html {
 }
 
 #qr_title {
-    font-size: 10px;
+    font-size: 20px;
     color: hsl(218, 44%, 22%);
     text-align: center;
 }
 
 #description {
     text-align: center;
-    font-size: 8px;
+    font-size: 15px;
 }
